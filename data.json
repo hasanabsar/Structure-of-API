@@ -1,0 +1,33 @@
+[
+    {
+        "name" : "Abdul",
+        "email" : "Abdul@gmail.com",
+        "add" : "Karachi-Pakistan",
+        "course" : "CPISM",
+        "branch" : "AbdulGulshan-e-Iqbal"
+    },
+
+    {
+        "name" : "Rehman",
+        "email" : "Rehman@gmail.com",
+        "add" : "Karachi-Pakistan",
+        "course" : "CPISM",
+        "branch" : "Gulshan-e-Iqbal"
+    },
+
+    {
+        "name" : "Bilal",
+        "email" : "Bilal@gmail.com",
+        "add" : "Karachi-Pakistan",
+        "course" : "CPISM",
+        "branch" : "Gulshan-e-Iqbal"
+    },
+
+    {
+        "name" : "Sarim",
+        "email" : "Sarim@gmail.com",
+        "add" : "Karachi-Pakistan",
+        "course" : "CPISM",
+        "branch" : "Gulshan-e-Iqbal"
+    }
+]
